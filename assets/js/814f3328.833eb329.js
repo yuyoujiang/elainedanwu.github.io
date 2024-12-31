@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkelaine_website=self.webpackChunkelaine_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"into","permalink":"/blog/into","unlisted":false,"date":"2024-12-31T11:26:57.145Z"}]}')}}]);
